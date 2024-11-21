@@ -2,6 +2,7 @@
 Compared the GDP of different regions. The regions that are taken for consideration are Europe, East Asia &amp; Pacific, South Asia and Sub-Saharan Africa. Along with GDP other development indicators and 21 years data are also taken into account. It helps to get an understanding how GDP is related to them and over a period.
 
 GDP by Country name
+
 The Doughnut Economics Model served as the basis for this chart. This graph provides a clear representation of the distribution of countries' GDP. Just two countries—Japan, and Germany—make up over half of the gross domestic product (GDP). In fact, the GDP of Japan alone is greater than the combined GDP of other countries except Germany and United Kingdom. Japan makes a significant contribution to GDP, Cameroon and Senegal are the countries with least GDP.
 
 
