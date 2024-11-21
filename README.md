@@ -1,0 +1,2 @@
+# Comparative-analysis-of-the-regions-and-nations-in-relation-to-their-GDP-values
+Compared the GDP of different regions. The regions that are taken for consideration are Europe, East Asia &amp; Pacific, South Asia and Sub-Saharan Africa. Along with GDP other development indicators and 21 years data are also taken into account. It helps to get an understanding how GDP is related to them and over a period.
